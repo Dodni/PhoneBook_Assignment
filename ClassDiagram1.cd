@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="WPFEFCMF_PhoneBook.MainWindow">
+    <Position X="0.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAEAAAAAAIAAAAAAAQCEAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PhoneBook.cnPhoneBook">
+    <Position X="2.75" Y="1" Width="5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAYAAAMBgAAQAgQgAEiAgAIgQAAAQAAAAAEA=</HashCode>
+      <FileName>dmPhoneBook.cnPhoneBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhoneBook.Number">
+    <Position X="8.25" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAIAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>dmPhoneBook.Number.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhoneBook.Person">
+    <Position X="8.25" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAoAAAAAAQAACgAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>dmPhoneBook.Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhoneBook.City">
+    <Position X="8.25" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAACAQAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>dmPhoneBook.City.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
